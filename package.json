@@ -1,0 +1,28 @@
+{
+  "name": "open_prj",
+  "version": "0.0.1",
+  "description": "看到一个非常性感的美女",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chibaole/open_prj.git"
+  },
+  "author": "liupan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chibaole/open_prj/issues"
+  },
+  "homepage": "https://github.com/chibaole/open_prj#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.4",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^4.11.1",
+    "webpack-cli": "^3.0.3"
+  }
+}
